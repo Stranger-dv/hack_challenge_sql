@@ -8,7 +8,7 @@
 | SQL | https://github.com/SocialOplesk/hack_sql_1| ✅|
 
 ## 📊 Herramienta utilizada
-[OneCompiler](https://ejemplo.com)
+[OneCompiler](https://onecompiler.com/)
 
 ![Texto alternativo](https://github.com/Stranger-dv/hack_challenge_sql/blob/main/assets/one_compiler.png)
 
